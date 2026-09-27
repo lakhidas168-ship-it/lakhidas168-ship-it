@@ -1,15 +1,16 @@
 name: hive-cloud
 
-# The free 24/7 hive: every 20 minutes, 6 Hermes (content) and 6 OpenCode (tooling) workers each take one task
+# The cloud hive: on each run, 6 Hermes (content) and 6 OpenCode (tooling) workers each take one task
 # in parallel, and the JEVX judge publishes what passes every gate. Rate-limited workers just requeue their task.
 # Cost: public-repo Actions minutes are free; GitHub Models is free (rate-limited) with the workflow token.
 # Kill switch: set the repository variable HIVE_ENABLED to "false" (Settings → Secrets and variables → Actions).
 # Optional capacity: repository secrets OPENCODE_API_KEY (owner's OpenCode Go plan: DeepSeek V4.1 Flash for the
 # OpenCode lane and the judge), GEMINI_API_KEY, OPENROUTER_API_KEY, GROQ_API_KEY (free tiers).
 
+# No schedule, on purpose: claim refs and per-task pushes every 20 minutes look like git used as a message bus,
+# which got the owner's previous GitHub account flagged as spam. The hive runs on the owner's Mac and publishes
+# one gated, batched commit per hour to its own repository. Run this by hand only if needed.
 on:
-  schedule:
-    - cron: "3,23,43 * * * *"   # every 20 minutes
   workflow_dispatch:
 
 permissions:

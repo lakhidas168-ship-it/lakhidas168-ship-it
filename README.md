@@ -49,19 +49,19 @@ Graduated with a **B.Tech in Electrical Engineering from National Institute of T
 
 ---
 
-## 🎓 Free for Every Aspirant: [Awesome Indian Exams](awesome-indian-exams/)
+## 🎓 Free for Every Aspirant: [Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams)
 
 Evidence-gated preparation maps for India's most-attempted competitive exams: **GATE, ESE, JEE, NEET, UPSC,
 state PSCs, SSC, RRB, IBPS/SBI/RBI, defence, CTET/NET, CUET, CLAT, CAT** and more (118 exams in the registry).
 It is built from **shared syllabus modules**, so one preparation counts for many exams. Official sources only,
-an honest verification status on every page, and no pirated material. It is updated hourly in public by an
-agent hive (JEVX + Hermes + OpenCode) that runs free on GitHub Actions.
+an honest verification status on every page, and no pirated material. An agent hive (JEVX + Hermes + OpenCode)
+updates it every hour in its own public repository.
 
-- [Overlap map: one preparation, many exams](awesome-indian-exams/resources/overlap-map.md) ·
-  [All exams with official websites](awesome-indian-exams/resources/all-exams.md)
-- [Electrical engineering track](awesome-indian-exams/resources/ee-subject-map.md) ·
-  [EE free resources](awesome-indian-exams/resources/ee-free-resources.md)
-- [How the hive works](awesome-indian-exams/ops/HIVE.md) · [Latest updates](awesome-indian-exams/UPDATES.md)
+- [Overlap map: one preparation, many exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/overlap-map.md) ·
+  [All exams with official websites](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/all-exams.md)
+- [Electrical engineering track](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-subject-map.md) ·
+  [EE free resources](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-free-resources.md)
+- [How the hive works](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/ops/HIVE.md) · [Latest updates](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/UPDATES.md)
 
 ---
 
