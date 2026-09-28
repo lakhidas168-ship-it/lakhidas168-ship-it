@@ -32,6 +32,13 @@ I design and build sovereign, local-first artificial intelligence systems, sub-m
 * **2,000 km On-Foot Padyatra for Educational Reform**: Walked **2,000 km entirely on foot** across 5 Northeastern states, leading a grassroots educational campaign urging NCERT to include Northeast history and unsung freedom fighters in school textbooks.
 * **Long-Distance Athletics**: Completed **7 official Half-Marathons** with zero support vehicles.
 
+📰 **Press coverage**: [The Assam Tribune](https://assamtribune.com/assam/assam-boy-embarks-on-a-journey-on-foot-to-persuade-ncert-to-include-chapter-on-northeast-in-textbooks-1372921) ·
+[The Sentinel](https://www.sentinelassam.com/north-east-india-news/assam-news/assam-youth-starts-foot-journey-demanding-chapter-on-northeast-in-ncert-books-595516) ·
+[The Sentinel (walkathon)](https://www.sentinelassam.com/north-east-india-news/assam-news/student-on-a-walkathon-to-demand-chapter-on-ne-in-ncert-textbooks-602103) ·
+[The Hills Times](https://thehillstimes.in/assam/assam-student-on-a-walkathon-to-demand-chapter-on-ne-in-ncert-textbooks) ·
+[Organiser](https://organiser.org/2022/06/08/84746/bharat/assam-boy-embarks-2000-kilometer-journey-on-foot-to-persuade-ncert-to-include-chapter-on-northeast/) ·
+[Video: Assam to Khardung La (Scoutripper)](https://www.youtube.com/watch?v=7DD0hOkqXKA)
+
 ### 📚 Competitive Examinations Cleared
 Graduated with a **B.Tech in Electrical Engineering from National Institute of Technology (NIT) Silchar**, clearing 6 elite national competitive examinations:
 1. **GATE Electrical Engineering**: Qualified **2 Times** (cutoff cleared with circuital and mathematical depth).
@@ -75,15 +82,15 @@ updates it every hour in its own public repository.
 - Intercepts agent tool executions, audits assertions against deterministically captured receipts, and blocks false greens.
 - Real-time hooks for Antigravity, MCP server triage, and test court execution.
 
-### 2. [Sovereign Learning OS](https://github.com/lakhidas168-ship-it)
-**Evidence-Gated GraphRAG with SQLite Recursive CTEs & TypeSafe Jev System 1**
+### 2. Sovereign Learning OS
+**Evidence-Gated GraphRAG with SQLite Recursive CTEs & TypeSafe Jev System 1** *(repository not public yet)*
 - **Hybrid Retrieval**: Native SQLite FTS5 (BM25) fused with graph neighbor traversal via Reciprocal Rank Fusion (RRF, $k=60$).
 - **Zero-Billed Output Cost**: TypeSafe Jev primitives (`Choice`, `Score`, `Noul`) deliver sub-second semantic gating and query routing at **$0.00 output token billing**.
 - **Embedded Graph Engine**: Multi-hop prerequisite DAG traversal via SQLite recursive CTEs (no external graph database daemon required).
 - **Adversarial Gate**: Fail-closed verification rejecting fabricated concept connections before they reach downstream memory graphs.
 
-### 3. [1000x Local Hypergraph & Transcripts Corpus](https://github.com/lakhidas168-ship-it)
-**Offline Technical Knowledge Retrieval at Scale**
+### 3. 1000x Local Hypergraph & Transcripts Corpus
+**Offline Technical Knowledge Retrieval at Scale** *(repository not public yet)*
 - Indexed corpus of **12,532 lecture transcripts** (515 MB text) in pure SQLite FTS5.
 - Sub-millisecond BM25 keyword matching coupled with multi-level pedagogical taxonomies for technical curricula.
 - 100% local, offline-executable, zero external cloud dependency.
