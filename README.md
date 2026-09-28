@@ -62,6 +62,9 @@ updates it every hour in its own public repository.
 - [Electrical engineering track](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-subject-map.md) ·
   [EE free resources](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-free-resources.md)
 - [How the hive works](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/ops/HIVE.md) · [Latest updates](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/UPDATES.md)
+- Focused collections: [Electrical engineering exams](https://github.com/lakhidas168-ship-it/awesome-electrical-exams)
+  (GATE EE, ESE, SSC/RRB JE, state AE/JE, PSU) · [UPSC Civil Services](https://github.com/lakhidas168-ship-it/awesome-upsc-cse)
+  (Prelims, Mains, Interview).
 
 ---
 
