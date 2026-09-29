@@ -1,115 +1,130 @@
 <div align="center">
 
-# ⚡ Rajon Das
-### Sovereign Systems Engineer • Autonomous Multi-Agent Swarms • Local-First AI
-**Founder @ AIR1 / MIGL Factory-OS | UPSC ESE (Electrical Engineering) Aspirant**
+# Rajon Das
 
-[![GitHub: lakhidas168-ship-it](https://img.shields.io/badge/GitHub-lakhidas168--ship--it-181717.svg?style=flat-square&logo=github)](https://github.com/lakhidas168-ship-it)
-[![Architecture: Evidence-Native](https://img.shields.io/badge/Architecture-Evidence--Native-00f2fe.svg?style=flat-square)]()
-[![Runtime: Local--First](https://img.shields.io/badge/Runtime-Local--First-brightgreen.svg?style=flat-square)]()
-[![Law: Chakka Jodo Chakka Mat Banao](https://img.shields.io/badge/Law-Chakka%20Jodo%20Chakka%20Mat%20Banao-ffaa00.svg?style=flat-square)]()
-[![Location: Assam, India](https://img.shields.io/badge/Location-Karimganj%2C%20Assam%2C%20India-red.svg?style=flat-square)]()
+**Chakka jodo, chakka mat banao.**<br>
+<sub>Join the wheels. Don't reinvent them.</sub>
+
+Electrical engineer, NIT Silchar · from Patharkandi, Barak Valley, Assam<br>
+Founder, AIR1 / MIGL Factory-OS · preparing for UPSC ESE (Electrical)
+
+[Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams) ·
+[Electrical exams](https://github.com/lakhidas168-ship-it/awesome-electrical-exams) ·
+[UPSC CSE](https://github.com/lakhidas168-ship-it/awesome-upsc-cse) ·
+[Press](#on-the-road) ·
+[Email](mailto:lakhidas168@gmail.com)
 
 </div>
 
 ---
 
-## 🏛️ Engineering Philosophy
+## The thread
 
-> *"Every computational claim must be bound to physical evidence, cryptographic lineage, and reproducible engineering. Zero mock layers, zero cloud vendor moats, and zero speculative fluff."*
+| When | What I did | What it connected |
+| :-- | :-- | :-- |
+| 2021 | Cycled solo for 62 days, Assam to Khardung La (17,982 ft) | the Northeast ↔ the rest of India |
+| 2022 | Walked across the Northeast, 12–13 hours a day, for an NCERT chapter | the Northeast ↔ India's school textbooks |
+| 2026 | Built [Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams) | one syllabus module ↔ many exams (118 mapped) |
+| 2026 | Built [air10-exam](https://github.com/lakhidas168-ship-it/awesome-electrical-exams/tree/main/tools/air10-exam) | an EE exam problem ↔ an exact, unit-checked answer |
 
-I design and build sovereign, local-first artificial intelligence systems, sub-millisecond decision layers, and federated multi-agent swarms engineered to execute on native hardware with mathematical rigor.
-
----
-
-## 🏔️ Founder Human Track-Record: 100% Verifiable Feats
-
-> *"True sovereign discipline isn't claimed in marketing slides — it is forged across thousands of kilometers on the road and years in the examination hall."*  
-> — **Rajon Das** (NIT Silchar B.Tech Electrical • Patharkandi, Karimganj, Assam)
-
-### 🚴 Extreme Physical Endurance & National Expeditions
-* **4,000+ km Solo Cycling Expedition to Khardung La (17,982 ft)**: Pedaled solo for **62 consecutive days** from Karimganj (Assam) all the way across India to Khardung La (Ladakh), one of the world's highest motorable mountain passes, championing Northeast awareness, green mobility, and national integration. *(Featured in The Assam Tribune, India Times, and felicitated at NIT Silchar)*.
-* **2,000 km On-Foot Padyatra for Educational Reform**: Walked **2,000 km entirely on foot** across 5 Northeastern states, leading a grassroots educational campaign urging NCERT to include Northeast history and unsung freedom fighters in school textbooks.
-* **Long-Distance Athletics**: Completed **7 official Half-Marathons** with zero support vehicles.
-
-### 📚 Competitive Examinations Cleared
-Graduated with a **B.Tech in Electrical Engineering from National Institute of Technology (NIT) Silchar**, clearing 6 elite national competitive examinations:
-1. **GATE Electrical Engineering**: Qualified **2 Times** (cutoff cleared with circuital and mathematical depth).
-2. **SSC JE (Electrical)**: Cleared Staff Selection Commission Junior Engineer examination.
-3. **Coal India Limited (SECL)**: Qualified South Eastern Coalfields Limited engineering exam.
-4. **CGCAT (Indian Coast Guard)**: Cleared Coast Guard Common Admission Test.
-5. **AFCAT (Indian Air Force)**: Cleared Air Force Common Admission Test.
-6. **JEE Main**: High national rank to secure admission into Electrical Engineering at NIT Silchar.
-
-### 🧘 Social Leadership, Spiritual Guidance & Grassroots Grit
-* **Northeast India’s Largest Art of Living Happiness Program**: Organized Northeast India's largest Art of Living youth program in Patharkandi with **81 participants**, serving under the spiritual guidance of **Gurudev Sri Sri Ravi Shankar ji**, introducing youth to Sudarshan Kriya, mental wellness, and de-addiction.
-* **Anti-Ragging Moral Courage**: Stood up fearlessly against campus ragging at NIT Silchar, legally and ethically defending junior students.
-* **From Scrap Shop Roots to Sovereign Architect**: Rose from a humble family scrap shop in Patharkandi, Barak Valley to building high-performance sovereign software ecosystems and autonomous systems.
-* **Active North Star**: Pursuing **All India Rank < 10 in UPSC Engineering Services Examination (ESE) in Electrical Engineering**.
+Different roads, same rule: a claim should point to its evidence. Every page in Awesome Indian Exams
+says how it was verified, air10-exam answers with exact solvers instead of guesses, and the
+stories below link to the papers that reported them.
 
 ---
 
-## 🎓 Free for Every Aspirant: [Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams)
+## What I'm building
 
-Evidence-gated preparation maps for India's most-attempted competitive exams: **GATE, ESE, JEE, NEET, UPSC,
-state PSCs, SSC, RRB, IBPS/SBI/RBI, defence, CTET/NET, CUET, CLAT, CAT** and more (118 exams in the registry).
-It is built from **shared syllabus modules**, so one preparation counts for many exams. Official sources only,
-an honest verification status on every page, and no pirated material. An agent hive (JEVX + Hermes + OpenCode)
-updates it every hour in its own public repository.
+**[Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams)**: free preparation maps for 118 of
+India's most-attempted exams: GATE, ESE, JEE, NEET, UPSC, state PSCs, SSC, RRB, banking, defence, CTET/NET,
+CUET, CLAT, CAT and more. Exams share syllabus modules, so one preparation counts for many. Official sources
+only, a verification status on every page, no pirated material. It started with the electrical track I'm on
+myself, and an agent hive (JEVX + Hermes + OpenCode) keeps it current.
 
-- [Overlap map: one preparation, many exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/overlap-map.md) ·
-  [All exams with official websites](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/all-exams.md)
-- [Electrical engineering track](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-subject-map.md) ·
-  [EE free resources](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-free-resources.md)
-- [How the hive works](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/ops/HIVE.md) · [Latest updates](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/UPDATES.md)
-- Focused collections: [Electrical engineering exams](https://github.com/lakhidas168-ship-it/awesome-electrical-exams)
-  (GATE EE, ESE, SSC/RRB JE, state AE/JE, PSU) · [UPSC Civil Services](https://github.com/lakhidas168-ship-it/awesome-upsc-cse)
-  (Prelims, Mains, Interview).
+[Overlap map](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/overlap-map.md) ·
+[All exams + official sites](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/all-exams.md) ·
+[Electrical track](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-subject-map.md) ·
+[Free EE resources](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/resources/ee-free-resources.md) ·
+[How the hive works](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/ops/HIVE.md) ·
+[Latest updates](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/UPDATES.md)
 
----
+Focused cuts: [awesome-electrical-exams](https://github.com/lakhidas168-ship-it/awesome-electrical-exams) (GATE EE, ESE,
+SSC/RRB JE, state AE/JE, PSU) · [awesome-upsc-cse](https://github.com/lakhidas168-ship-it/awesome-upsc-cse) (Prelims, Mains, Interview)
 
-## 🚀 Flagship Systems & Architectures
+**[air10-exam](https://github.com/lakhidas168-ship-it/awesome-electrical-exams/tree/main/tools/air10-exam)**: an open MCP
+tool for Electrical Engineering exam prep (GATE EE, ESE, SSC/RRB JE, state AE/JE, PSUs). Exact solvers for transfer
+functions, stability margins, three-phase, per-unit, power flow, circuit netlists, control and logic; SI-prefix-safe
+unit checks; and a question index you build yourself from public sources.
 
-### 1. [truthgate](https://github.com/lakhidas168-ship-it/truthgate)
-**Evidence-Backed Truth & Claim Verification Engine for Coding Agents**
-- Intercepts agent tool executions, audits assertions against deterministically captured receipts, and blocks false greens.
-- Real-time hooks for Antigravity, MCP server triage, and test court execution.
+**Not public yet**
 
-### 2. [Sovereign Learning OS](https://github.com/lakhidas168-ship-it)
-**Evidence-Gated GraphRAG with SQLite Recursive CTEs & TypeSafe Jev System 1**
-- **Hybrid Retrieval**: Native SQLite FTS5 (BM25) fused with graph neighbor traversal via Reciprocal Rank Fusion (RRF, $k=60$).
-- **Zero-Billed Output Cost**: TypeSafe Jev primitives (`Choice`, `Score`, `Noul`) deliver sub-second semantic gating and query routing at **$0.00 output token billing**.
-- **Embedded Graph Engine**: Multi-hop prerequisite DAG traversal via SQLite recursive CTEs (no external graph database daemon required).
-- **Adversarial Gate**: Fail-closed verification rejecting fabricated concept connections before they reach downstream memory graphs.
-
-### 3. [1000x Local Hypergraph & Transcripts Corpus](https://github.com/lakhidas168-ship-it)
-**Offline Technical Knowledge Retrieval at Scale**
-- Indexed corpus of **12,532 lecture transcripts** (515 MB text) in pure SQLite FTS5.
-- Sub-millisecond BM25 keyword matching coupled with multi-level pedagogical taxonomies for technical curricula.
-- 100% local, offline-executable, zero external cloud dependency.
+- **Sovereign Learning OS**: evidence-gated GraphRAG on plain SQLite. FTS5/BM25 fused with graph traversal by
+  Reciprocal Rank Fusion (k = 60), multi-hop prerequisite DAGs through recursive CTEs, routing on TypeSafe Jev
+  primitives, and a fail-closed gate that rejects fabricated concept links.
+- **Local hypergraph corpus**: 12,532 lecture transcripts (515 MB of text) in SQLite FTS5, searchable fully offline.
 
 ---
 
-## 🔬 Core Competencies & Tech Stack
+## On the road
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Electrical Engineering** | Circuit Theory, Power Systems, Control Theory, Signal Processing, EM Fields |
-| **Languages & Runtimes** | Python 3.11+, Pure C/C++ Extension Wheels, Rust, TypeScript, Bash/Zsh, SQLite3 |
-| **Systems & Architecture** | macOS Darwin (Apple Silicon ARM64 Native SIMD), POSIX Linux, SQLite WAL (`mmap`), DuckDB Parquet |
-| **Autonomous Systems** | Google Antigravity SDK, Gemini 3.x Models, Model Context Protocol (MCP), TypeSafe JEV System 1 |
-| **Verification & Quality** | Deterministic Test-Driven Development (TDD), Claim Verification (`truthgate`), Zero Mock Layers |
+**2021 · Assam to Khardung La by bicycle.** 62 days solo, 4,000+ km, through Meghalaya, West Bengal, Bihar,
+Uttar Pradesh, Delhi, Haryana, Punjab and Jammu & Kashmir, up to one of the highest motorable passes in the
+world. The point was to talk about the Northeast in places that rarely hear about it.
+
+**2022 · Tripura to Tawang on foot.** Started at the Tripura Sundari Temple in Udaipur on 22 May 2022 and
+walked 12–13 hours a day, sleeping in local homes and a tent, to ask NCERT for a chapter on the Northeast in
+class IX–X textbooks. By July I had reached Tawang.
+
+> "People supported my mission overwhelmingly and expressed their anguish that even after 75 years of
+> Independence, most people outside the northeastern region know very little."
+>
+> <sub>Speaking in Tawang, [The Sentinel](https://www.sentinelassam.com/north-east-india-news/assam-news/student-on-a-walkathon-to-demand-chapter-on-ne-in-ncert-textbooks-602103), July 2022</sub>
+
+| Date | Outlet | Story |
+| :-- | :-- | :-- |
+| 3 Jun 2022 | EastMojo | [A chapter on NE in books? Assam youth starts journey on foot to convince NCERT](https://eastmojo.com/assam/2022/06/03/with-aim-to-see-chapter-on-ne-in-ncert-books-assam-youth-starts-journey-on-foot/) |
+| 6 Jun 2022 | The Assam Tribune | [Assam boy embarks on a journey on foot to persuade NCERT to include chapter on Northeast](https://assamtribune.com/assam/assam-boy-embarks-on-a-journey-on-foot-to-persuade-ncert-to-include-chapter-on-northeast-in-textbooks-1372921) |
+| 6 Jun 2022 | The Sentinel | [Youth starts foot journey demanding chapter on Northeast in NCERT books](https://www.sentinelassam.com/north-east-india-news/assam-news/assam-youth-starts-foot-journey-demanding-chapter-on-northeast-in-ncert-books-595516) |
+| 8 Jun 2022 | Organiser | [Assam boy embarks 2000 kilometer journey on foot to persuade NCERT](https://organiser.org/2022/06/08/84746/bharat/assam-boy-embarks-2000-kilometer-journey-on-foot-to-persuade-ncert-to-include-chapter-on-northeast/) |
+| 12 Jul 2022 | The Sentinel | [Student on a walkathon to demand chapter on NE in NCERT textbooks](https://www.sentinelassam.com/north-east-india-news/assam-news/student-on-a-walkathon-to-demand-chapter-on-ne-in-ncert-textbooks-602103) |
+| Jul 2022 | The Hills Times | [Assam student on a walkathon to demand chapter on NE in NCERT textbooks](https://thehillstimes.in/assam/assam-student-on-a-walkathon-to-demand-chapter-on-ne-in-ncert-textbooks) |
+
+Also: [the ride on Scoutripper](https://www.youtube.com/watch?v=7DD0hOkqXKA) (video) ·
+[I Am An NITian](https://www.facebook.com/iamannitian/posts/rajon-das-student-of-nit-silchar-b-tech-3rd-year-electrical-branch-travelled-400/3100230753551285/) ·
+seven half-marathons.
 
 ---
 
-## 📬 Connect
+## In the exam hall
 
-- 📧 **Email**: [lakhidas168@gmail.com](mailto:lakhidas168@gmail.com)
-- 🐙 **GitHub**: [@lakhidas168-ship-it](https://github.com/lakhidas168-ship-it)
-- 📍 **Base**: Karimganj, Barak Valley, Assam, India
+B.Tech in Electrical Engineering from NIT Silchar. Cleared:
+
+**GATE EE** (twice) · **SSC JE** (Electrical) · **Coal India** (SECL) · **Indian Coast Guard** CGCAT ·
+**Indian Air Force** AFCAT · **JEE Main**
+
+Next: UPSC Engineering Services (Electrical). Target: AIR under 10.
+
+---
+
+## Off the page
+
+- Grew up around my family's scrap shop in Patharkandi.
+- Organised an Art of Living Happiness Program for 81 young people in Patharkandi (Sudarshan Kriya, mental
+  wellness, de-addiction), under the guidance of Gurudev Sri Sri Ravi Shankar ji.
+- Stood up against ragging at NIT Silchar.
+
+---
+
+## Toolbox
+
+- **Electrical:** circuits, power systems, control, signals, EM fields
+- **Code:** Python, C/C++ extensions, Rust, TypeScript, Bash, SQL
+- **Data:** SQLite (FTS5, WAL, recursive CTEs), DuckDB + Parquet
+- **Agents:** MCP, Gemini, Google Antigravity SDK
+- **Machines:** Apple Silicon macOS, Linux
 
 ---
 
 <div align="center">
-  <sub>Built with sovereign engineering by <a href="https://github.com/lakhidas168-ship-it">@lakhidas168-ship-it</a>. All systems verifiable from physical evidence.</sub>
+<sub>Karimganj, Barak Valley, Assam · <a href="mailto:lakhidas168@gmail.com">lakhidas168@gmail.com</a></sub>
 </div>
