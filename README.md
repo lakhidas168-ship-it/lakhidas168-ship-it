@@ -9,7 +9,8 @@ Electrical engineer, NIT Silchar · from Patharkandi, Barak Valley, Assam<br>
 Founder, AIR1 / MIGL Factory-OS · preparing for UPSC ESE (Electrical)
 
 [Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams) ·
-[truthgate](https://github.com/lakhidas168-ship-it/truthgate) ·
+[Electrical exams](https://github.com/lakhidas168-ship-it/awesome-electrical-exams) ·
+[UPSC CSE](https://github.com/lakhidas168-ship-it/awesome-upsc-cse) ·
 [Press](#on-the-road) ·
 [Email](mailto:lakhidas168@gmail.com)
 
@@ -24,10 +25,10 @@ Founder, AIR1 / MIGL Factory-OS · preparing for UPSC ESE (Electrical)
 | 2021 | Cycled solo for 62 days, Assam to Khardung La (17,982 ft) | the Northeast ↔ the rest of India |
 | 2022 | Walked across the Northeast, 12–13 hours a day, for an NCERT chapter | the Northeast ↔ India's school textbooks |
 | 2026 | Built [Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams) | one syllabus module ↔ many exams (118 mapped) |
-| 2026 | Built [truthgate](https://github.com/lakhidas168-ship-it/truthgate) | an AI agent's claim ↔ the evidence behind it |
+| 2026 | Built [air10-exam](https://github.com/lakhidas168-ship-it/awesome-electrical-exams/tree/main/tools/air10-exam) | an EE exam problem ↔ an exact, unit-checked answer |
 
 Different roads, same rule: a claim should point to its evidence. Every page in Awesome Indian Exams
-says how it was verified, truthgate won't let an agent report green without a receipt, and the
+says how it was verified, air10-exam answers with exact solvers instead of guesses, and the
 stories below link to the papers that reported them.
 
 ---
@@ -50,9 +51,10 @@ myself, and an agent hive (JEVX + Hermes + OpenCode) keeps it current.
 Focused cuts: [awesome-electrical-exams](https://github.com/lakhidas168-ship-it/awesome-electrical-exams) (GATE EE, ESE,
 SSC/RRB JE, state AE/JE, PSU) · [awesome-upsc-cse](https://github.com/lakhidas168-ship-it/awesome-upsc-cse) (Prelims, Mains, Interview)
 
-**[truthgate](https://github.com/lakhidas168-ship-it/truthgate)**: claim verification for coding agents. It intercepts tool
-calls, checks what the agent says against receipts captured by code, and blocks false greens. Hooks for
-Antigravity, MCP server triage, and a test court.
+**[air10-exam](https://github.com/lakhidas168-ship-it/awesome-electrical-exams/tree/main/tools/air10-exam)**: an open MCP
+tool for Electrical Engineering exam prep (GATE EE, ESE, SSC/RRB JE, state AE/JE, PSUs). Exact solvers for transfer
+functions, stability margins, three-phase, per-unit, power flow, circuit netlists, control and logic; SI-prefix-safe
+unit checks; and a question index you build yourself from public sources.
 
 **Not public yet**
 
