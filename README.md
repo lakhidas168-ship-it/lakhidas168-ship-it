@@ -24,7 +24,7 @@ Founder, AIR1 / MIGL Factory-OS · preparing for UPSC ESE (Electrical)
 | :-- | :-- | :-- |
 | 2021 | Cycled solo for 62 days, Assam to Khardung La (17,982 ft) | the Northeast ↔ the rest of India |
 | 2022 | Walked across the Northeast, 12–13 hours a day, for an NCERT chapter | the Northeast ↔ India's school textbooks |
-| 2026 | Built [Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams) | one syllabus module ↔ many exams (118 mapped) |
+| 2026 | Built [Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams) | one syllabus module ↔ many exams (126 mapped) |
 | 2026 | Built [air10-exam](https://github.com/lakhidas168-ship-it/awesome-electrical-exams/tree/main/tools/air10-exam) | an EE exam problem ↔ an exact, unit-checked answer |
 
 Different roads, same rule: a claim should point to its evidence. Every page in Awesome Indian Exams
@@ -35,7 +35,7 @@ stories below link to the papers that reported them.
 
 ## What I'm building
 
-**[Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams)**: free preparation maps for 118 of
+**[Awesome Indian Exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams)**: free preparation maps for 126 of
 India's most-attempted exams: GATE, ESE, JEE, NEET, UPSC, state PSCs, SSC, RRB, banking, defence, CTET/NET,
 CUET, CLAT, CAT and more. Exams share syllabus modules, so one preparation counts for many. Official sources
 only, a verification status on every page, no pirated material. It started with the electrical track I'm on
